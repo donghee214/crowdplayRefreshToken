@@ -1,0 +1,5 @@
+---
+applications:
+- name:    spotifyServer
+  random-route: true
+  memory:  128M
